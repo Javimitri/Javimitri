@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 <div id="badges">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/fcojavierperezvazquez/)">
+  <a href="[[your-linkedin-URL](https://www.linkedin.com/in/fcojavierperezvazquez/)](https://www.linkedin.com/in/fcojavierperezvazquez/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
